@@ -52,7 +52,7 @@ Proje temel olarak aşağıdaki adımları takip eder:
 8.  **Modelin Eğitilmesi:**
     *   Model, belirlenen epoch sayısı boyunca eğitim veri kümesi üzerinde eğitilir.
     *   Her epoch sonunda modelin eğitim ve doğrulama kümelerindeki kaybı ve doğruluğu hesaplanır ve yazdırılır.
-    ![Eğitim ve Doğrulama Grafikleri](Sonuc.Grafigi.png)
+    ![Eğitim ve Doğrulama Grafikleri](SonucGrafigi.png)
 
 9.  **Model Değerlendirmesi:**
     *   Eğitim tamamlandıktan sonra, modelin performansı doğrulama veri seti üzerinde `sklearn.metrics` ve `seaborn` kullanılarak değerlendirilir.
