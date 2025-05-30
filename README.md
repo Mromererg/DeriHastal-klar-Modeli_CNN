@@ -7,7 +7,6 @@ MODEL HAKKINDA :Bu veri setini eğitirken bazı sınıfların verileri 250ye kad
 
 SINIF SAYISINI ARTTIRMA :Sınıf sayısını arttırdıktan sonra ise yeni sınıf dağılımı ;
 
-
 ![Arttırılmış verilerin sınıf dağılımı](ArttirilmisVeri.png)
 
 
