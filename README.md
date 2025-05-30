@@ -10,3 +10,5 @@ SINIF SAYISINI ARTTIRMA :Sınıf sayısını arttırdıktan sonra ise yeni sın�
 ![Arttırılmış verilerin sınıf dağılımı](ArttirilmisVeri.png)
 
 
+
+Sınıf arttırımını gerçekleştirdikten sonra veriyi train ve validation (0.2 oranı ile) olarak ayırararak resnet 50 cnn modeli ile %94e kadar çıkan bir eğitim modeli geliştirdim  
