@@ -5,3 +5,8 @@ MODEL HAKKINDA :Bu veri setini eğitirken bazı sınıfların verileri 250ye kad
 
 ![MODEL EĞİTİMİNDEN ÖNCEKİ VERİ SETİ ](image.png)
 
+SINIF SAYISINI ARTTIRMA :Sınıf sayısını arttırdıktan sonra ise yeni sınıf dağılımı ;
+
+
+
+
