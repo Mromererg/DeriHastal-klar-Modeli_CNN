@@ -3,7 +3,7 @@ VERİ SETİ HAKKINDA :Derin öğrenme ile yapay zeka eğitimlerime devam ederken
 MODEL HAKKINDA :Bu veri setini eğitirken bazı sınıfların verileri 250ye kadar düşük seviyelerde olduğu için sınıfı az olan verilere data augmentation uygulayarak sınıfların veri sayısını yaklaşık 1500e kadar çıkardım
 
 
-![MODEL EĞİTİMİNDEN ÖNCEKİ VERİ SETİ ](image.png)
+![MODEL EĞİTİMİNDEN ÖNCEKİ VERİ SETİ ](SinifDagilimlari.png)
 
 SINIF SAYISINI ARTTIRMA :Sınıf sayısını arttırdıktan sonra ise yeni sınıf dağılımı ;
 
