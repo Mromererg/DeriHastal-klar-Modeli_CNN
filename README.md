@@ -8,5 +8,6 @@ MODEL HAKKINDA :Bu veri setini eğitirken bazı sınıfların verileri 250ye kad
 SINIF SAYISINI ARTTIRMA :Sınıf sayısını arttırdıktan sonra ise yeni sınıf dağılımı ;
 
 
-![Arttırılmış verilerin sınıf dağılımı]()
+![Arttırılmış verilerin sınıf dağılımı](Ekran görüntüsü 2025-05-30 152747.png)
+
 
